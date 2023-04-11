@@ -1,0 +1,211 @@
+
+table img{
+    width: 310px;
+    height: 200px;
+    padding: 0px ;
+    border-radius: 2px;
+}
+
+
+.navigator{
+    margin-top: -150px !important;
+}
+.main-div-car{
+    margin-top: 150px !important;
+}
+
+table{
+    background-color: white;
+    color: black;
+    width: 1300px;
+    text-align: left;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+table tr td{
+    margin-right: 100px;
+}
+#image-td{
+    padding: 10px 50px;
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: red;
+    margin-bottom: 50px;
+}
+
+h1::after{
+    content: '';
+    display: block;
+    margin-top: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 32%;
+    height: 3px;
+    background-color: red;
+    transition: all 300ms ease 0s;
+}
+
+.titulos-model{
+    font-size: 30px;
+}
+.titulos-model::after{
+    content: '';
+    display: block;
+    margin-top: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    height: 3px;
+    background-color: red;
+    transition: all 300ms ease 0s;
+}
+#Title1{
+    font-size: 35px;
+    margin-top: -20px;
+}
+
+#text{
+    color: #85bb65;
+    font-weight: bold;
+    padding-bottom: 25px;
+    font-size: 25px;
+}
+
+#First-td{
+    width: 100px;
+    padding: 20px 20px;
+}
+
+.left-text{
+    position: relative; 
+    padding-left: 40px;
+}
+
+.boton2 {
+    color: white !important;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 0.7em 2em;
+    background: rgb(126, 0, 0);
+    border: 2px solid;
+    border-color: rgb(126, 0, 0);
+    position: relative;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.boton2:before {
+    content:"";
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 0px;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    transition: all 1s ease;
+}
+
+.boton2:hover:before {
+  width: 100%;
+}
+
+.AlertNada{
+    background-color: white;
+    color: black;
+    width: 1000px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 25px;
+}
+
+.buymesenge{
+    background-color: red;
+    color: white;
+    position: absolute;
+    top: -10px !important;
+    width: 500px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 2px;
+    left: 5px;
+    height: 70px;
+    font-size: 24px;
+    animation-name: buymes;
+    animation-iteration-count: 1;
+    animation-duration: 1s;
+}
+
+@keyframes buymes{
+    0%{background-color: transparent;color: transparent;}
+    100%{background-color: red; color: white;}
+}
+
+.buybefore{
+    animation-name: buyAni;
+    animation-iteration-count: 1;
+    animation-duration: 1s;
+}
+
+.buybefore2{
+    display: none !important;
+    position: relative;
+}
+
+@keyframes buyAni{
+    0%{background-color: red;color: white;}
+    100%{background-color: transparent;color: transparent;}
+}
+
+.boton3{
+    background: rgb(0, 0, 0);
+    border-radius: 2px;
+    cursor: pointer;
+    border: none;
+    font-size: 20px;
+    position: absolute;
+    height: 56px;
+    margin-left: 25px;
+}
+
+
+#BotonVaciar {
+    color: #fff !important;
+    font-weight: 500;
+    padding: 0.7em 1.3em;
+    background: #ac3131;
+    position: relative;
+    border: 2px solid #ac3131;
+    outline: 1px solid;
+    outline-color: rgba(172, 49, 49, 0.4);
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+    cursor: pointer;
+  }
+
+  #BotonVaciar a{
+      font-size: 25px;
+  }
+  #BotonVaciar:hover {
+    box-shadow: inset 0 0 20px rgba(172, 49, 49, 0.5), 0 0 20px rgba(172, 49, 49, 0.4);
+    outline-color: rgba(49, 138, 172, 0);
+    outline-offset: 80px;
+    text-shadow: 1px 1px 6px #fff;
+  }
+  
+#butonVaciarDiv{
+    width: 212.5px;
+    margin-bottom: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+}
