@@ -6,8 +6,9 @@ Una nueva forma de comprar ha llegado
 
 # Lenguajes
 
+- LARAVEL
 - PHP
-- MySQL
+- phpMyAdmin
 - CSS
 - JS
 - HTML5
