@@ -27,7 +27,7 @@ Una nueva forma de comprar ha llegado
 
 # Anexos
 
-- Manual Técnico:
-- Manual Usuario:
-- Mockups: 
+- Manual Técnico: https://www.canva.com/design/DAFhCX67tII/E4MdLBLxh8HTViojoseUng/watch?utm_content=DAFhCX67tII&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+- Manual Usuario: https://www.canva.com/design/DAFhCT9TRgk/xbi6dFrcvXaJnhGiUXLgyg/watch?utm_content=DAFhCT9TRgk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+- Mockups: https://docs.google.com/document/d/1Q0KE20hoTxKUliQWbvjImRY5qsmG5zJVi9CNKqXuEDE/edit
 - Trello: https://www.notion.so/525dc870af5342bb9fb85d39b0b6d613?v=221f006ad1144c958f93af806c5d9cdb&pvs=4
