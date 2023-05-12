@@ -18,11 +18,23 @@ Una nueva forma de comprar ha llegado
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
+   <br>
    
-   | [<img src="https://avatars.githubusercontent.com/u/83888568?v=4" width=115><br><sub>Will-Trucker</sub>](https://github.com/Will-Trucker) |  
-   | [<img src="https://avatars.githubusercontent.com/u/119774354?v=4" width=115><br><sub>Juanjo</sub>](https://github.com/JuanJ0234) |  
-   | [<img src="https://avatars.githubusercontent.com/u/79532040?v=4" width=115><br><sub>Samuel Mejia</sub>](https://github.com/Samuel-Mejia) | 
-   | [<img src="https://avatars.githubusercontent.com/u/87559944?v=4" width=115><br><sub>Diego Rojas</sub>](https://github.com/FUOWAII) |
+   | [<img src="https://avatars.githubusercontent.com/u/83888568?v=4" width=115>
+   <br>
+   <sub>Will-Trucker</sub>](https://github.com/Will-Trucker) | 
+   
+   | [<img src="https://avatars.githubusercontent.com/u/119774354?v=4" width=115>
+   <br>
+   <sub>Juanjo</sub>](https://github.com/JuanJ0234) |  
+   
+   | [<img src="https://avatars.githubusercontent.com/u/79532040?v=4" width=115>
+   <br>
+   <sub>Samuel Mejia</sub>](https://github.com/Samuel-Mejia) | 
+   
+   | [<img src="https://avatars.githubusercontent.com/u/87559944?v=4" width=115>
+   <br>
+   <sub>Diego Rojas</sub>](https://github.com/FUOWAII) |
 
 # Licencia
 
