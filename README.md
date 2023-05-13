@@ -1,6 +1,6 @@
 # Gonly
 
-<img src="">
+<img src="Gonly.png">
 
 Una nueva forma de comprar ha llegado
 
